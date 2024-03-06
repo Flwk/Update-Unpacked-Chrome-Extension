@@ -40,7 +40,7 @@ powershell -Command "Add-Type -A 'System.IO.Compression.FileSystem'; Remove-Item
 
 echo Extraction completed. >> log
 del ARCHIVE_NAME.zip 
-echo archive supprime >> log
+echo archive deleted >> log
 
 rem The extension https://t.ly/jPPDr will reload all installed extensions on Chrome
 start chrome http://reload.extensions
