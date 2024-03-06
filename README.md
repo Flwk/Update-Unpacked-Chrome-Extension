@@ -1,5 +1,5 @@
 # Update-Unpacked-Chrome-Extension
-This **very simple** Windows batch script facilitates the automatic download and extraction of ZIP files from Google Drive or another source. It is particularly useful for automating the process of retrieving files from online sources and extracting them into a specified local folder, and reload the extension.
+This **very simple** Windows batch script facilitates the automatic download and extraction of ZIP files from Google Drive or another source. It is particularly useful for automating the process of retrieving files from online sources and extracting them into a specified local folder, and reload the unpack extension for chrome.
 
 # Key Features:
 - Secure download from Google Drive or another source via direct download link.
