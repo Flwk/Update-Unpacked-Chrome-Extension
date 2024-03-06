@@ -2,7 +2,7 @@
 This **very simple** Windows batch script facilitates the automatic download and extraction of ZIP files from Google Drive or another source. It is particularly useful for automating the process of retrieving files from online sources and extracting them into a specified local folder, and reload the extension.
 
 # Key Features:
-- Secure download from Google Drive via direct download link.
+- Secure download from Google Drive or another source via direct download link.
 - Verification of download integrity and logging of results.
 - Automatic extraction of the downloaded ZIP file's contents to a predefined local folder.
 - auto-reload the extension on chrome navigator
